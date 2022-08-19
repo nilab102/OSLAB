@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Priority_Scheduling__Pre_emptive_version_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Priority_Scheduling__Pre_emptive_version_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Priority_Scheduling__Pre_emptive_version_-Debug-f56b08e816f7f224b157.json",
+					"name" : "Priority_Scheduling__Pre_emptive_version_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nilab/Desktop/osLAB/Priority Scheduling( Pre-emptive version)/cmake-build-debug",
+		"source" : "C:/Users/nilab/Desktop/osLAB/Priority Scheduling( Pre-emptive version)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

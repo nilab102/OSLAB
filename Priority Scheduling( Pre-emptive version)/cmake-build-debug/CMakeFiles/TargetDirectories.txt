@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/Priority Scheduling( Pre-emptive version)/cmake-build-debug/CMakeFiles/Priority_Scheduling__Pre_emptive_version_.dir
+C:/Users/nilab/Desktop/osLAB/Priority Scheduling( Pre-emptive version)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/Priority Scheduling( Pre-emptive version)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

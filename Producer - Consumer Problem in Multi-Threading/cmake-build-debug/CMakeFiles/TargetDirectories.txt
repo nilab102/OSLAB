@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/Producer - Consumer Problem in Multi-Threading/cmake-build-debug/CMakeFiles/Producer___Consumer_Problem_in_Multi_Threading.dir
+C:/Users/nilab/Desktop/osLAB/Producer - Consumer Problem in Multi-Threading/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/Producer - Consumer Problem in Multi-Threading/cmake-build-debug/CMakeFiles/rebuild_cache.dir

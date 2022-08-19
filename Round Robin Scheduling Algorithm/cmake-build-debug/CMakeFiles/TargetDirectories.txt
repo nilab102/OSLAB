@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/Round Robin Scheduling Algorithm/cmake-build-debug/CMakeFiles/Round_Robin_Scheduling_Algorithm.dir
+C:/Users/nilab/Desktop/osLAB/Round Robin Scheduling Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/Round Robin Scheduling Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/First Come First Serve Process Scheduling/cmake-build-debug/CMakeFiles/FCFS.dir
+C:/Users/nilab/Desktop/osLAB/First Come First Serve Process Scheduling/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/First Come First Serve Process Scheduling/cmake-build-debug/CMakeFiles/rebuild_cache.dir

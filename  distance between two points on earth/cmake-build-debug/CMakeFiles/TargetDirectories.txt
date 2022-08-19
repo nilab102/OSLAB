@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/ distance between two points on earth/cmake-build-debug/CMakeFiles/_distance_between_two_points_on_earth.dir
+C:/Users/nilab/Desktop/osLAB/ distance between two points on earth/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/ distance between two points on earth/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/Baker's algorithm/cmake-build-debug/CMakeFiles/Baker_s_algorithm.dir
+C:/Users/nilab/Desktop/osLAB/Baker's algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/Baker's algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

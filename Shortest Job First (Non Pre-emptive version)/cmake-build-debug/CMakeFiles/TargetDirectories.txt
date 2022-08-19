@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/Shortest Job First (Non Pre-emptive version)/cmake-build-debug/CMakeFiles/SJF.dir
+C:/Users/nilab/Desktop/osLAB/Shortest Job First (Non Pre-emptive version)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/Shortest Job First (Non Pre-emptive version)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

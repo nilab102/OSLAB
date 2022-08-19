@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(Producer___Consumer_Problem_in_Multi_Threading)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Producer___Consumer_Problem_in_Multi_Threading main.cpp)

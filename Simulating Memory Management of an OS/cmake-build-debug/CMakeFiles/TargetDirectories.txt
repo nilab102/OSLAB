@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/Simulating Memory Management of an OS/cmake-build-debug/CMakeFiles/Simulating_Memory_Management_of_an_OS.dir
+C:/Users/nilab/Desktop/osLAB/Simulating Memory Management of an OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/Simulating Memory Management of an OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

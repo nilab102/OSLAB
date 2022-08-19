@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/ Reader-Writer Problem/cmake-build-debug/CMakeFiles/_Reader_Writer_Problem.dir
+C:/Users/nilab/Desktop/osLAB/ Reader-Writer Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/ Reader-Writer Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
