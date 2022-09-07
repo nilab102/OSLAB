@@ -169,10 +169,7 @@ int main()
         scanf("%d",&requests[i]);
 
     }
-    printf("\nBestfit:\n");
-    bestfit(nholes,nrequests,holes,requests);
-    printf("\nfirststfit:\n");
-    firstfit(nholes,nrequests,holes,requests);
+
     printf("\nWorstfit:\n");
     worstfit(nholes,nrequests,holes,requests);
 /*

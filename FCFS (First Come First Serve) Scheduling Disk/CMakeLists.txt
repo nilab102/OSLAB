@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(FCFS__First_Come_First_Serve__Scheduling_Disk)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(FCFS__First_Come_First_Serve__Scheduling_Disk main.cpp)

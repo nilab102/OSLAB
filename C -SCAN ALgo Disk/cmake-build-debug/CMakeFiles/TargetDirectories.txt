@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/C -SCAN ALgo Disk/cmake-build-debug/CMakeFiles/C__SCAN_ALgo_Disk.dir
+C:/Users/nilab/Desktop/osLAB/C -SCAN ALgo Disk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/C -SCAN ALgo Disk/cmake-build-debug/CMakeFiles/rebuild_cache.dir

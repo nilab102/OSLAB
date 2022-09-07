@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SSTF__Shortest_Seek_time_First__Scheduling_Disk",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SSTF__Shortest_Seek_time_First__Scheduling_Disk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SSTF__Shortest_Seek_time_First__Scheduling_Disk-Debug-e0f2604dc5bb7175ad9b.json",
+					"name" : "SSTF__Shortest_Seek_time_First__Scheduling_Disk",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nilab/Desktop/osLAB/SSTF (Shortest Seek time First) Scheduling Disk/cmake-build-debug",
+		"source" : "C:/Users/nilab/Desktop/osLAB/SSTF (Shortest Seek time First) Scheduling Disk"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

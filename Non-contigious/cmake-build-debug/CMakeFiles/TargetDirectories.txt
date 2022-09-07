@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/Non-contigious/cmake-build-debug/CMakeFiles/Non_contigious.dir
+C:/Users/nilab/Desktop/osLAB/Non-contigious/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/Non-contigious/cmake-build-debug/CMakeFiles/rebuild_cache.dir

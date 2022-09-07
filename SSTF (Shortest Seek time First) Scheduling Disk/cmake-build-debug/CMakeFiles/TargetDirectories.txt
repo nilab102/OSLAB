@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/osLAB/SSTF (Shortest Seek time First) Scheduling Disk/cmake-build-debug/CMakeFiles/SSTF__Shortest_Seek_time_First__Scheduling_Disk.dir
+C:/Users/nilab/Desktop/osLAB/SSTF (Shortest Seek time First) Scheduling Disk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/osLAB/SSTF (Shortest Seek time First) Scheduling Disk/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(SSTF__Shortest_Seek_time_First__Scheduling_Disk)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(SSTF__Shortest_Seek_time_First__Scheduling_Disk main.cpp)
